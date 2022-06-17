@@ -144,4 +144,4 @@ Adicionaremos uma lista de contatos ao rodapé da nossa página, e para isso usa
 
 Crie um elemento ul e dentro dele adicione um <li> com um elemento a, no atributo href adicione o *link* de alguma rede social que você mantenha e, no conteúdo da âncora coloque o nome dessa rede.
 
- 
+ ## material fornecido pela plataforma DIO Santander Boot Camp 2022
