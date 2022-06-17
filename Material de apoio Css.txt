@@ -193,4 +193,4 @@ O font-size nos ajuda a mudar o tamanho do texto, existem algumas unidades de me
 
 Usamos o font-style para tornar um texto itálico, na maioria das vezes você usará apenas o valor *italic* para ele, mas se precisar tirar o itálico de um texto você pode usar o valor *normal*.
 
- 
+ #### Material Fornecido pela plataforma DIO no Santander BootCamp 2022.
